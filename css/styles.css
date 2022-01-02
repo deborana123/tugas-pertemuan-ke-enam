@@ -1,5 +1,6 @@
 body {
   text-align:center;
+  background-color: #637BAD;
 }
 
 .top-container {
@@ -8,7 +9,7 @@ body {
 .cloudd {
      position:absolute;
      right:200px;
-     top: 10px
+     top: 10px;
 }
 .clouddd {
   position: absolute;
