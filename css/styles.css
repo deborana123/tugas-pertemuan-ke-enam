@@ -1,0 +1,16 @@
+body {
+  text-align:center;
+}
+
+.top-container {
+  padding-top: 60px;
+}
+.cloudd {
+     position:absolute;
+     right:200px;
+     top: 10px
+}
+.clouddd {
+  position: absolute;
+  left: 200px;
+}
